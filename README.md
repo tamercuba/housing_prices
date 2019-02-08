@@ -1,2 +1,3 @@
-# housing_prices
-Housing Prices kaggle competition 
+# Housing Prices 
+
+My attemps to solve the Kaggle challenge "Housing Prices"
